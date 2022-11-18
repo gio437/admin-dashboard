@@ -10,6 +10,7 @@ body {
 }
 
 .sidebar {
+    width: 250px;
     background-color: rgb(64, 115, 224);
 }
 
@@ -19,10 +20,12 @@ body {
 }
 
 .upper div {
+    margin: 20px;
     color: white;
 }
 
 .lower div{
+    margin: 20px;
     color: white;
 }
 
@@ -43,7 +46,7 @@ button {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
     margin-top: 30px;
-    width: 650px;
+    width: 1000px;
     gap: 40px;
 }
 
